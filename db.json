@@ -1,0 +1,19 @@
+{
+  "asnId": "ASN-5566",
+  "supplier": "Metalúrgica Futurion",
+  "shipmentDate": "2025-01-11",
+  "trucks": [
+    {
+      "plate": "RTA-7F22",
+      "driver": "João Batista",
+      "capacity": "8 toneladas",
+      "status": "A caminho"
+    },
+    {
+      "plate": "EPM-2K19",
+      "driver": "Carlos Mendes",
+      "capacity": "12 toneladas",
+      "status": "Carregado"
+    }
+  ]
+}
