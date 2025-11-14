@@ -1,19 +1,29 @@
 {
-  "asnId": "ASN-5566",
-  "supplier": "Metalúrgica Futurion",
-  "shipmentDate": "2025-01-11",
-  "trucks": [
+  "asn": [
     {
-      "plate": "RTA-7F22",
-      "driver": "João Batista",
-      "capacity": "8 toneladas",
-      "status": "A caminho"
-    },
-    {
-      "plate": "EPM-2K19",
-      "driver": "Carlos Mendes",
-      "capacity": "12 toneladas",
-      "status": "Carregado"
+      "asnId": "ASN-5566",
+      "carrier": "TransLog Cargo – Filial Campinas",
+      "totalPackages": 3,
+      "packages": [
+        {
+          "partId": "PIN-16F-2024",
+          "quantity": 800,
+          "packageId": "PKG-001",
+          "status": "Em trânsito"
+        },
+        {
+          "partId": "VLV-20T-2024",
+          "quantity": 200,
+          "packageId": "PKG-002",
+          "status": "Despachado"
+        },
+        {
+          "partId": "COR-ALT-01",
+          "quantity": 350,
+          "packageId": "PKG-003",
+          "status": "Em trânsito"
+        }
+      ]
     }
   ]
 }
